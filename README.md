@@ -10,3 +10,5 @@ add the element to the grocery list then click on submit.
 To see the grocery list, click on Show Grocery List and you will get the following result: 
 
 ![Image of List](list.png)
+
+Note: this code was just made to test knowledge, and it's not good in terms of security, routing...
